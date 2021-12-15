@@ -25,3 +25,5 @@ I am just a regular 10th grade student that goes to school every schoolday and d
 7) Global History
 8) Big History Project
 9) Yoga (monday, wednesday, and thursday)
+
+## Sorry for the last part i commited everything lol
