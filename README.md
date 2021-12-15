@@ -1,6 +1,6 @@
 # about-me
 
-## Chin Chun Chen
+## _Chin Chun Chen_
 
 ## Email
 
