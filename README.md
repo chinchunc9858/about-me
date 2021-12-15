@@ -17,3 +17,4 @@ I am just a regular 10th grade student that goes to school every schoolday and d
 ## Schedule
 
 1) Chemistry
+2) Spanish
