@@ -15,3 +15,5 @@ HSTAT
 I am just a regular 10th grade student that goes to school every schoolday and do my homework at home.
 
 ## Schedule
+
+1) Chemistry
