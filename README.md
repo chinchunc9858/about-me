@@ -4,7 +4,7 @@
 
 ## Email
 
-chinchunc9858@hstat.org
+**chinchunc9858@hstat.org**
 
 ## School
 
