@@ -18,3 +18,10 @@ I am just a regular 10th grade student that goes to school every schoolday and d
 
 1) Chemistry
 2) Spanish
+3) ELA
+4) SEP10
+5) Algebra 2
+6) Lunch
+7) Global History
+8) Big History Project
+9) Yoga (monday, wednesday, and thursday)
