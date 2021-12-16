@@ -8,7 +8,7 @@
 
 ## School
 
-HSTAT
+[HSTAT](https://www.hstat.org/)
 
 ## Bio
 
